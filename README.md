@@ -1,1 +1,1 @@
-# poster-making
+This is a poster for the NGO MBYC
