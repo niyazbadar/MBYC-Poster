@@ -14,6 +14,6 @@
 
 ###### Team Members ✨
 
-<a href="https://github.com/niyazbadar/poster-making/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=niyazbadar/poster-making" />
+<a href="https://github.com/niyazbadar/MBYC-Poster/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=niyazbadar/MBYC-Poster" />
 </a>
