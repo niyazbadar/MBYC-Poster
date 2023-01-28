@@ -5,7 +5,7 @@
 ```Poster```
 
 <div>
-    <img src="https://cdn.discordapp.com/attachments/1044124684523937803/1068812660696686592/image.png"/>
+    <img src="https://cdn.discordapp.com/attachments/1044124684523937803/1068830675270107186/image.png"/>
 </div>
 
 ``` Download Full Quality Poster ```
